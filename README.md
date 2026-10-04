@@ -2,8 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="retrato%20de%20chica%20con%20rizos%20voluminosos.png" width="250">
-
+<img src="Retrato%20de%20chica%20con%20rizos%20voluminosos.png" width="250">
 </td>
 
 <td width="65%">
