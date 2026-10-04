@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center">
 
 <img src="Retrato%20de%20chica%20con%20rizos%20voluminosos.png" width="250">
 </td>
