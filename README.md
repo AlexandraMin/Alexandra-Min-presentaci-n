@@ -1,12 +1,21 @@
+<!-- ONDAS -->
+<p align="center">
+  <img src="./cc7503a2-1141-4c02-ac3e-bef616479627.jpeg" width="100%">
+</p>
+
+<br>
+
 <table>
 <tr>
 
+<!-- CHICA -->
 <td width="25%" align="center" valign="middle">
 
-<img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.34%20PM.png">
+<img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.34%20PM.jpeg" width="100%">
 
 </td>
 
+<!-- INFORMACIÓN -->
 <td width="50%" align="center" valign="middle">
 
 # Alexandra-Min-presentación
@@ -29,9 +38,10 @@ desarrollo web y diseño digital.
 
 </td>
 
+<!-- GATO -->
 <td width="25%" align="center" valign="middle">
 
-<img src="WhatsApp Image 2026-10-03 at 11.26.35 PM" width="100%">
+<img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.35%20PM.jpeg" width="100%">
 
 </td>
 
