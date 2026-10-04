@@ -2,7 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="Chica%20entre%20ondas%20de%20cristal%20morado.png" width="100%">
+<img src="WhatsApp Image 2026-10-03 at 11.26.34 PM.png" width="100%">
 </td>
 
 <td width="65%">
@@ -10,7 +10,7 @@
 # Alexandra-Min-presentación
 Mi perfil personal de GitHub y proyectos de desarrollo web.
 # 👋 ¡Hola! Soy Alexandra Mina 
-### 🎨 Diseño · 💻 Desarrollo web · 🤖 Tecnología
+###  Diseño ·  Desarrollo web ·  Tecnología
 
 Soy estudiante apasionada por el diseño digital, el desarrollo web
 y la creación de experiencias visuales, mi principal enfoco es en el  desarrollo web y diseño digital.
