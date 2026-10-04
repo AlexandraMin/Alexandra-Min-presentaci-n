@@ -41,9 +41,9 @@ y la creación de experiencias visuales, mi principal enfoco es en el  desarroll
 
 | Proyecto | Descripción |
 |---|---|
-| 🛒 **Tienda Online** | Proyecto de comercio electrónico |
-| 🤖 **IA en educación** | Investigación sobre IA y concentración |
-| 🎨 **Diseño Web** | Proyectos de diseño y UX/UI |
+|  **Tienda Online** | Proyecto de comercio electrónico |
+|  **IA en educación** | Investigación sobre IA y concentración |
+|  **Diseño Web** | Proyectos de diseño y UX/UI |
 </td>
 </tr>
 </table>
