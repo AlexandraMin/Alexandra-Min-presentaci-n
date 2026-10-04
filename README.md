@@ -2,7 +2,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="Retrato%20de%20chica%20con%20rizos%20voluminosos.png" width="250">
+<img src="Chica%20entre%20ondas%20de%20cristal%20morado.png" width="100%">
 </td>
 
 <td width="65%">
