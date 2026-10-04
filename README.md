@@ -3,7 +3,7 @@
 
 <td width="25%" align="center" valign="middle">
 
-<img src="WhatsApp Image 2026-10-03 at 11.26.34 PM" width="100%">
+<img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.34%20PM.png">
 
 </td>
 
