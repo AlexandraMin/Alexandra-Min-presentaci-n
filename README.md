@@ -1,6 +1,6 @@
-<!-- BANNER -->
+<!-- BANNER DE ONDAS -->
 <p align="center">
-  <img src="cc7503a2-1141-4c02-ac3e-bef616479627" width="100%">
+  <img src="./cc7503a2-1141-4c02-ac3e-bef616479627.png" width="100%">
 </p>
 
 <br>
@@ -10,7 +10,7 @@
 <tr>
 
 <td width="25%" align="center" valign="middle">
-  <img src="WhatsApp Image 2026-10-03 at 11.26.34 PM" width="220">
+  <img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.34%20PM.png" width="220">
 </td>
 
 <td width="50%" align="center" valign="middle">
@@ -27,7 +27,7 @@ para crear proyectos visuales, funcionales y con personalidad.
 </td>
 
 <td width="25%" align="center" valign="middle">
-  <img src="WhatsApp Image 2026-10-03 at 11.26.35 PM" width="150">
+  <img src="./WhatsApp%20Image%202026-10-03%20at%2011.26.35%20PM.png" width="150">
 </td>
 
 </tr>
