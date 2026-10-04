@@ -23,11 +23,11 @@ y la creación de experiencias visuales, mi principal enfoco es en el  desarroll
 
 ## ✨ Sobre mí
 
-- 🎨 Me interesa el diseño y la creatividad digital.
-- 💻 Estoy aprendiendo desarrollo web.
-- 🧠 Me interesa el UX/UI.
-- 🤖 Exploro el uso de la inteligencia artificial.
-- 🚀 Siempre estoy aprendiendo cosas nuevas.
+-  Me interesa el diseño y la creatividad digital.
+-  Estoy aprendiendo desarrollo web.
+-  Me interesa el UX/UI.
+-  Exploro el uso de la inteligencia artificial.
+-  Siempre estoy aprendiendo cosas nuevas.
 
 ## 💻 Tecnologías
 
